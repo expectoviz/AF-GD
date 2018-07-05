@@ -9,7 +9,7 @@ Installation
 
 How to run?
 
-- cd af
+- cd AF-GD
 - php af.php
 - input target
 - input list file : wlist.txt or your own wordlist
